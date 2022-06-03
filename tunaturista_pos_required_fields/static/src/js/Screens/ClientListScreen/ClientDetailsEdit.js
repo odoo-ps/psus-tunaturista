@@ -46,7 +46,6 @@ odoo.define(
             });
           }
           processedChanges.id = this.props.partner.id || false;
-          console.log(processedChanges, "weeee");
           this.trigger("save-changes", { processedChanges });
         }
       };

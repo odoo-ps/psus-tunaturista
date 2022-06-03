@@ -18,5 +18,6 @@
         ]
     },
 
-    'license': 'OPL-1'
+    'license': 'OPL-1',
+    'sequence': 101
 }
